@@ -121,9 +121,4 @@
       </item>
     </group>
   </component>
-  <component name="uidesigner-configuration">
-    <option name="INSTRUMENT_CLASSES" value="false" />
-    <option name="DEFAULT_FIELD_ACCESSIBILITY" value="public" />
-    <option name="USE_DYNAMIC_BUNDLES" value="true" />
-  </component>
 </project>
